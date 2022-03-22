@@ -20,15 +20,6 @@ yet to accomplish.
 - [@codesbydine](https://www.github.com/codesbydine)
 
 
-## Deployment
-
-This porfolio is hosted on Github pages.
-
-```bash
-  codesbydine.github.io
-```
-
-
 ## FAQ
 
 #### Question 1 : Are you open to feedback?
